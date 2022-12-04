@@ -1,7 +1,7 @@
 # Image-Classification-Streamlit-TensorFlow
 A basic web-app for image classification using Streamlit and TensorFlow.
 
-# It classifies the given image of a car into one of the following fourteen categories :-  
+# It classifies the given image of Breast-Cancer-Image-Segmentation into one of the following tree categories :-  
 * Normal.
 * malignant.
 * normal.
