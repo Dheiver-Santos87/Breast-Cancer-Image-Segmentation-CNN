@@ -20,9 +20,9 @@ Once uploaded, the model will perform inference and the output will be displayed
 
 ## Output
 
-<img src ='misc/sample_home_page.png' width = 700>  
+<img src ='misc/sample_home_page.jpg' width = 700>  
 
-<img src ='misc/sample_output.png' width = 700>
+<img src ='misc/sample_output.jpg' width = 700>
 
 
 ## Notes
