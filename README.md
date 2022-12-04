@@ -1,4 +1,4 @@
-# Image-Classification-Streamlit-TensorFlow
+# Breast-Cancer-Image-Segmentation-Streamlit-TensorFlow
 A basic web-app for image classification using Streamlit and TensorFlow.
 
 # It classifies the given image of Breast-Cancer-Image-Segmentation into one of the following tree categories :-  
